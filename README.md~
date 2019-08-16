@@ -55,4 +55,6 @@ The board is configureable. You only need to populate the areas required to meet
 	WS2812B strings will benefit from a large capacitor across the power terminals (not mandatory but is said to improve their lifespan)
 	You can demand a lot of power from the power supply and potentially overload it. It will tell you its not happy by getting hot :)  Best to limit the amount of power you can draw in your firmware.
 
-=======
+
+## Boards and Components
+	I may have boards and or components available from time to time. Please contact me with a comment on [Here](https://kk4oyj.wordpress.com/2019/08/15/esp8266-d1-mini-lighting-shield/)

@@ -44,8 +44,8 @@ The board is configureable. You only need to populate the areas required to meet
  
 ## Firmware
 
-	For WS2812B, I have used Mclighting. It only needs one pin declared (LED_PIN 4 (D2))
-	For PWM, I usually write my own code or sometimes use Tasmota. 
+	For WS2812B, I have used [Mclighting](https://github.com/toblum/McLighting/tree/master/Arduino/McLighting). It only needs one pin declared (LED_PIN 4 (D2))
+	For PWM, I usually write my own code or sometimes use [Tasmota](https://github.com/arendst/Sonoff-Tasmota). 
 		
 		L0 - 14 (D5)
 		L1 - 12 (D6)
