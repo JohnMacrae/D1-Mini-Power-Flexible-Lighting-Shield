@@ -37,7 +37,7 @@
 
 ## Output Pins
 	
-- +5v and GND is supplied at JP4 - you can use it to supply any peripherals you like, inclusing lighting. It also supplies the 5V pin of the D1 Mini.
+- +5v and GND is supplied at JP4 - you can use it to supply any peripherals you like, including lighting. It also supplies the 5V pin of the D1 Mini.
 - PWM0 is an output, via R13 from D1 (GPIO 5 (D1))
 - WS is the WS2812B driver pin, via LED1. This is the pin you'll add to the Adafruit Neopixel or Mclighting code.
 - L0, L1 and L2 are designed to control RGB LED strings. (If you decide to use it for other purposes such as driving a small motor, at least a flyback diode will be required). You can either hook up one RGB string (up to 2.5-3A worth) using all 3 channels or one monochrome strip to each channel.
