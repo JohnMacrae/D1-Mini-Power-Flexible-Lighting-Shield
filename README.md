@@ -1,6 +1,17 @@
 # D1-Mini-Power-Flexible-Lighting-Shield
 
-Testing confirms the following:
+##Here are the specs of the final shield:
+
+6-24V voltage regulator at up to 3A
+3 pwm channels (up to 2.5A) for controlling RGB led strings
+1 channel with WS2812B ‘driver’
+1 other breakout pin
+Voltage divider on board for battery monitoring and switching
+Stackable! You can use more than one lighting board per D1 Mini
+Serial pins unused should you need to wire to an array of other microcontrollers.
+Configurable.  Only populate the areas you need on the board for the required functionality
+
+##Testing confirms the following:
 
   Power supply good to 2.5A continuous at 30C
 
