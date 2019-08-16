@@ -19,4 +19,6 @@
 	McLighting, Tasmota compatible
 	PWM and WS2812B drivers work separately or concurrently
 
+![alt text](https://imgs.xkcd.com/comics/standards.png "standards")
+
 
