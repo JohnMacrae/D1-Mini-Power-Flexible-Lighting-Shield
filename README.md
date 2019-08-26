@@ -23,7 +23,7 @@
 
 ## Getting Started
 
-- The board is configureable. You only need to populate the areas required to meet your needs. 
+- The board is configurable. You only need to populate the areas required to meet your needs. 
 
 - If you don't need to monitor a voltage, omit R12 and R13
 - If you don't need to PWM RGB led strings you can omit Q1-3 and R5-10
